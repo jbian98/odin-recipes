@@ -1,0 +1,1 @@
+First Project in Odin Projects' Foundations Course about HTML 
